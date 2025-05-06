@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI('AIzaSyCYMSEQrEONQJaLo2-DsdDyEFj-V-k0TEo');
+const genAI = new GoogleGenerativeAI('');
 
 export default async function handler(req, res) {
   
